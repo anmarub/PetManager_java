@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch ConTest",
+            "request": "launch",
+            "mainClass": "Model.ConTest",
+            "projectName": "PetManager_77b48a14"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface",
+            "request": "launch",
+            "mainClass": "petmanager.Interface",
+            "projectName": "PetManager_77b48a14"
+        },
+        {
+            "type": "java",
+            "name": "Launch PetManager",
+            "request": "launch",
+            "mainClass": "petmanager.PetManager",
+            "projectName": "PetManager_77b48a14"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch DbData",
+            "request": "launch",
+            "mainClass": "Model.DbData",
+            "projectName": "PetManager_b0c95406"
+        },
+        {
+            "type": "java",
+            "name": "Launch frmPet",
+            "request": "launch",
+            "mainClass": "View.frmPet",
+            "projectName": "PetManager_b0c95406"
+        },
+        {
+            "type": "java",
+            "name": "Launch AbstractClass",
+            "request": "launch",
+            "mainClass": "petmanager.AbstractClass",
+            "projectName": "PetManager_b0c95406"
+        },
+        {
+            "type": "java",
+            "name": "Launch Interface",
+            "request": "launch",
+            "mainClass": "petmanager.Interface",
+            "projectName": "PetManager_b0c95406"
+        },
+        {
+            "type": "java",
+            "name": "Launch PetManager",
+            "request": "launch",
+            "mainClass": "petmanager.PetManager",
+            "projectName": "PetManager_b0c95406"
+        },
+        {
+            "type": "java",
+            "name": "Launch Poliformismo2",
+            "request": "launch",
+            "mainClass": "petmanager.Poliformismo2",
+            "projectName": "PetManager_b0c95406"
+        },
+        {
+            "type": "java",
+            "name": "Launch Poliformismo3",
+            "request": "launch",
+            "mainClass": "petmanager.Poliformismo3",
+            "projectName": "PetManager_b0c95406"
+        },
+        {
+            "type": "java",
+            "name": "Launch Polimorfismo",
+            "request": "launch",
+            "mainClass": "petmanager.Polimorfismo",
+            "projectName": "PetManager_b0c95406"
+        }
+    ]
+}
